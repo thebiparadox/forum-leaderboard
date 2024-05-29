@@ -1,2 +1,1 @@
-# forum-leaderboard
-Created a forum-leaderboard for Bad Website Club's bootcamp
+Created a forum-leaderboard for Bad Website Club's bootcamp using [freeCodeCamp's Javascript and Data Structures curriculum.](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-asynchronous-programming-by-building-an-fcc-forum-leaderboard/step-1).
